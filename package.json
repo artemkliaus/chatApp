@@ -1,0 +1,23 @@
+{
+  "name": "chatApp",
+  "version": "1.0.0",
+  "description": "Hello there!",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./node/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artemkliaus/chatApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artemkliaus/chatApp/issues"
+  },
+  "homepage": "https://github.com/artemkliaus/chatApp#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
